@@ -4,3 +4,12 @@ chapter1:about TCP/IP moudle
 
 OSI分层协议：分层固然重要，具体协议仅供参考。
 
+physical layer：RJ-45，RS-232，ISM。交换单元bit。
+
+data link layer:PPP协议。交换单元frame。
+
+network layer:IPv4，IPv6，ICMP。交换单元package。
+
+transport layer:TCP,UDP.
+
+
