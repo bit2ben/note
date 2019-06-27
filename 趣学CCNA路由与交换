@@ -12,4 +12,9 @@ network layer:IPv4，IPv6，ICMP。交换单元package。
 
 transport layer:TCP,UDP.
 
+session layer,presentation layer and application layer:HTTP,DNS。
+
+TCP/IP moudle
+
+TCP/IP下的数据封装与解封装。
 
