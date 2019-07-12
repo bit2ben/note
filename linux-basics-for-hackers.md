@@ -9,3 +9,4 @@
 * kali linux runs on VM.How to do it?
 ### The basic
 * Fundamental skills,terms and concepts.
+* Basic commands in linux :pwd whoami cd ls man locate whereis find which ps cat mkdir mv rm rmdir 
