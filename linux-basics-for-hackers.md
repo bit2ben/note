@@ -21,6 +21,6 @@
   * tail :It's used to view the last lines of a file.
   * nl :To display a file with numbers.
   * more
-  * less :
+  * less :You can not only scroll through a file ,but you can also filter it for terms.
 * Filtering text
 
