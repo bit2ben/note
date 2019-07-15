@@ -14,3 +14,9 @@
   * locate whereis find which
   * mkdir mv rm rmdir
   * whoami  man  ps cat 
+### Text manipulation
+* viewing files
+ * cat
+ * head :Just to view the beginning of a small file.
+ * tail :It's used to view the last lines of a file.
+ 
