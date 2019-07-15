@@ -22,5 +22,6 @@
   * nl :To display a file with numbers.
   * more
   * less :You can not only scroll through a file ,but you can also filter it for terms.
-* Filtering text
-
+* Filtering,finding and replacing text
+  * grep :filtering
+  * sed :finding and replacing
