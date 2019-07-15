@@ -16,7 +16,11 @@
   * whoami  man  ps cat 
 ### Text manipulation
 * viewing files
- * cat
- * head :Just to view the beginning of a small file.
- * tail :It's used to view the last lines of a file.
- 
+  * cat
+  * head :Just to view the beginning of a small file.
+  * tail :It's used to view the last lines of a file.
+  * nl :To display a file with numbers.
+  * more
+  * less :
+* Filtering text
+
