@@ -26,10 +26,17 @@
   * *grep* :filtering
   * *sed* :finding and replacing
 ### Analyzing networks
- * CLI *ifcnfig* and *iwconfig
- * Being able to change your IP address and other network infomation is a useful skill.
+* CLI *ifcnfig* and *iwconfig
+* Being able to change your IP address and other network infomation is a useful skill.
    Done with the *ifconfig* command.
-    * Changing your IP address.
-    * Changing your network mask and broadcast address
-    * Spoofing your MAC address.
- 
+  * Changing your IP address.
+  * Changing your network mask and broadcast address
+  * Spoofing your MAC address.
+* DHCP(dynamic host configuration protocol) server
+  * To connect to the internew from a LAN,you must have a DHCP-assigned IP.
+  * Done with the *dhclient* command.
+* DNS(domain name system)
+  * Manipulating the DNS with *dig*.
+  * Changing your DNS server
+  * A importence file /etc/hosts.
+    
