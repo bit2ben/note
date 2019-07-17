@@ -10,17 +10,17 @@
 ### The basic
 * Fundamental skills,terms and concepts.
 * Basic commands in linux : 
-  * *pwd cd ls
-  * *locate whereis find which
-  * *mkdir mv rm rmdir
-  * *whoami  man  ps cat 
+  * *pwd cd ls*
+  * *locate whereis find which*
+  * *mkdir mv rm rmdir*
+  * *whoami  man  ps cat* 
 ### Text manipulation
 * viewing files
-  * *cat
+  * *cat*
   * *head* :Just to view the beginning of a small file.
   * *tail* :It's used to view the last lines of a file.
   * *nl* :To display a file with numbers.
-  * *more
+  * *more*
   * *less* :You can not only scroll through a file ,but you can also filter it for terms.
 * Filtering,finding and replacing text
   * *grep* :filtering
