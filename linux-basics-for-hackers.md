@@ -67,5 +67,6 @@
 * Moving a process to the foregroud
 * How to schedule processes to run at a particular time of day?
   * at command
+### Managing user environment variables
 
  
