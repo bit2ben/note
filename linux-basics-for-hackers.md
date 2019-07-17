@@ -38,5 +38,14 @@
 * DNS(domain name system)
   * Manipulating the DNS with *dig*.
   * Changing your DNS server
-  * A importence file /etc/hosts.
-    
+  * A important file /etc/hosts.
+### Configuring software
+* Using apt to handle software
+  * apt-get install packname
+  * apt-get remove packname or apt-get purge packname.
+  * apt-get update or apt-get upgrade.
+* sources.list file
+* Installing software with git(very important)
+  * git clone website
+  * Following the readme file to make program
+  
