@@ -49,11 +49,23 @@
   * git clone website
   * Following the readme file to make program.
 ### Permissions
- * Checking permissions:ls -l
- * Changing permissions:chmod
-   * changing permissions with decimal notation
-   * changing permissions with decimal UGO(user,group and others)
- * Umask
-   * In Debian systems,the umask is preconfigured to 0022
+* Checking permissions:ls -l
+* Changing permissions:chmod
+  * changing permissions with decimal notation
+  * changing permissions with decimal UGO(user,group and others)
+* Umask
+   In Debian systems,the umask is preconfigured to 0022
    * To change the umask value for a user,edit the file /home/username/.profile
+* Privilege escalation
+  * How to?
+### Process management
+* Viewing processes
+  *  ps top
+* Killing processes
+  * kill
+* Running processes in the background
+* Moving a process to the foregroud
+* How to schedule processes to run at a particular time of day?
+  * at command
+
  
