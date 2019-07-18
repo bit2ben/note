@@ -68,5 +68,13 @@
 * How to schedule processes to run at a particular time of day?
   * at command
 ### Managing user environment variables
+* there are two types of variables:shell and environment.
+* *env* command
+* *set* command
+  * viewing all environment variables.
+  * Sometimes ,you won't want your system to save any past command.make HISTSIZE=0.
+* PATH variable
+ *adding to the PATH variable:PATH=$PATH:/pathname.Do not type the command line like this:PATH=/pathname.
+ 
 
  
