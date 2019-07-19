@@ -75,6 +75,4 @@
   * Sometimes ,you won't want your system to save any past command.make HISTSIZE=0.
 * PATH variable
  * adding to the PATH variable:PATH=$PATH:/pathname.Do not type the command line like this:PATH=/pathname.
- 
-
- 
+### Bash scripting
