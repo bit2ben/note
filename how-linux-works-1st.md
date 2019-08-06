@@ -7,5 +7,9 @@
   * dd command (dd if=inputfile of=outputfile bs=blocksize cout=num)
   * A filesystem is a database of files and directories.
   * mount command(mout -t filesystemtype device mountpoint)
-  * mount a device ona mount point.
-  
+  * mount a device on a mount point.
+  * the /etc/fstab filesystem table.
+* Chapter 4 Essential system files,servers.
+  * system logging
+    * the /var/log directory
+    * the /etc/syslog.conf file
