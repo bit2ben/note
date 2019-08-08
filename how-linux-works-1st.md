@@ -19,3 +19,7 @@
     * time
     * strace/ltrace
     * vmstat
+* Chapter 5 and 6 Networking
+ * Network layers
+ * Subnet/ mask
+ * ICMP ping tracerouter ifconfig
