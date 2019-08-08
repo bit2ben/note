@@ -24,5 +24,7 @@
   * Subnet/ mask
   * ICMP ping tracerouter ifconfig
   * ssh
+    * sshd_config file
+    * ssh_config file
   * Network tools (netstat / lsof /tcpdump)
   * Port scanning(Nmap)
