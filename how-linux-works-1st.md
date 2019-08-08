@@ -30,3 +30,5 @@
   * Port scanning(Nmap)
   * Filter and Firewall
     * iptables tool
+* Chapter 7 Shell scripts
+  * When and where using shell script
