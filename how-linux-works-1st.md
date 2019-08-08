@@ -13,3 +13,9 @@
   * system logging
     * the /var/log directory
     * the /etc/syslog.conf file
+  * system performance commands
+    * lsof
+    * uptinme
+    * time
+    * strace/ltrace
+    * vmstat
