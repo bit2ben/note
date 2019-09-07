@@ -10,3 +10,7 @@
 * 单机式
 * 网关式 /DMZ和Reverse Proxy.
 * 通透式（brige)
+#### Netfilter
+* Filter机制
+#### Iptables
+* Iptables指令＝命令参数＋规则
