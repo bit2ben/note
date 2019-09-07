@@ -17,3 +17,9 @@
 * #iptables -t filter -A INPUT 2 -p tcp -j ACCEPT
 * 操作netfilter 表（数据库）filter/nat/mangle/raw的增A/I删D/F改R/P查L.
 * 规则语法
+* 以filter机制构建单机防火墙步骤：
+  * 提出安全需求，把规则写下来
+  * 把规则翻译成iptables语法
+  * 先拒绝所有连接，再逐一开放对外提供的服务。
+  * 测试防火墙规则的正确性。（外访内，内访外，两个方向）
+  
