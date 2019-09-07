@@ -8,5 +8,5 @@
 * 应用层防火墙，对数据进行操作。
 #### firewall结构
 * 单机式
-* 网关式
+* 网关式 /DMZ和Reverse Proxy.
 * 通透式（brige)
