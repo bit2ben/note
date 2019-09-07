@@ -13,4 +13,7 @@
 #### Netfilter
 * Filter机制
 #### Iptables
-* Iptables指令＝命令参数＋规则
+* Iptables指令＝命令参数＋规则语法
+* #iptables -t filter -A INPUT 2 -p tcp -j ACCEPT
+* 操作netfilter 表（数据库）filter/nat/mangle/raw的增A/I删D/F改R/P查L.
+* 规则语法
